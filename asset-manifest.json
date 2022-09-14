@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a8796b2.css",
+    "main.js": "/static/js/main.a36b54aa.js",
+    "static/media/video.mp4": "/static/media/video.8e4e1e0b571d97dfbd28.mp4",
+    "static/media/mars_rover.PNG": "/static/media/mars_rover.8e22aeebb9063be37201.PNG",
+    "static/media/cutee.gif": "/static/media/cutee.d7036dcacaa80001c592.gif",
+    "static/media/domain_img.jpg": "/static/media/domain_img.f34a49ea80bb2aaf3bb8.jpg",
+    "static/media/stellus.PNG": "/static/media/stellus.253de20033a93eb531a3.PNG",
+    "static/media/Error.png": "/static/media/Error.d4adced02b3b11c6fa83.png",
+    "static/media/HAL.PNG": "/static/media/HAL.189290a7b149040d6476.PNG",
+    "static/media/sponsor.gif": "/static/media/sponsor.c3860e7c3552253404e2.gif",
+    "static/media/arm.png": "/static/media/arm.2ed45231caa3bc081569.png",
+    "static/media/doggo.PNG": "/static/media/doggo.3e0fbfa236bc2c13268a.PNG",
+    "static/media/astra_logo.png": "/static/media/astra_logo.5dda99d8ab812c638f93.png",
+    "static/media/1.png": "/static/media/1.1b14abd843e7e3bb4acc.png",
+    "static/media/astra_logo_white.png": "/static/media/astra_logo_white.ec91067c3b4ca14e06aa.png",
+    "static/media/01.png": "/static/media/01.549a08cc5e405c975e49.png",
+    "static/media/3.png": "/static/media/3.69af7a84f67001eca807.png",
+    "static/media/Embedded_systems.png": "/static/media/Embedded_systems.fda48c63ebce718116d1.png",
+    "static/media/2.png": "/static/media/2.5cddebf2bed2fa32c438.png",
+    "static/media/Control_system_illustration.png": "/static/media/Control_system_illustration.aef380aab7a92a3cb591.png",
+    "static/media/tyre.png": "/static/media/tyre.5f0dec7dc14acbc02206.png",
+    "static/media/computer-vision-illustration.png": "/static/media/computer-vision-illustration.dc4721b669734f0f4538.png",
+    "static/media/ig_background.jpg": "/static/media/ig_background.11c1067d6e0e4db23840.jpg",
+    "static/media/02.png": "/static/media/02.75cd55ed7dc38e086532.png",
+    "static/media/insta_logo.png": "/static/media/insta_logo.205549aae2ee8b4e65fb.png",
+    "static/media/03.png": "/static/media/03.56c4fd22a9842309619e.png",
+    "index.html": "/index.html",
+    "static/media/ig.svg": "/static/media/ig.7c6bfe4680b1cacb69d906510226cbf9.svg",
+    "static/media/yt.svg": "/static/media/yt.63b5654158b0d7a0183bd3faadf2ad14.svg",
+    "static/media/li.svg": "/static/media/li.35e825d0be9371fea9e555f8e3d7af86.svg",
+    "main.1a8796b2.css.map": "/static/css/main.1a8796b2.css.map",
+    "main.a36b54aa.js.map": "/static/js/main.a36b54aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8796b2.css",
+    "static/js/main.a36b54aa.js"
+  ]
+}
